@@ -1,0 +1,1 @@
+# gemini-cli-extension_txt-for-ppt
