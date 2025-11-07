@@ -19,6 +19,9 @@ You are formatting text for direct import into Microsoft PowerPoint from a `.txt
     - Your entire output **must** consist *only* of the formatted text (titles and bullet points with correct indentation and line breaks).
     - **Do not** include *any* other text, explanations, greetings, comments, or markdown formatting (like ``` code blocks).
 
+5. **Line Endings**:
+   - All line breaks **must** use the Windows-style Carriage Return and Line Feed (`\r\n`).
+
 **Example Structure:**
 
 Slide 1 Title
