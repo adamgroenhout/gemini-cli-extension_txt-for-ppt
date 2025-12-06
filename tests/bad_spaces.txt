@@ -1,3 +1,0 @@
-Slide Title 1
-  Bullet 1
-    Sub-bullet 1
